@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Airhealth Spatio-Temporal Database - National Cancer Center, Korea
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+For full source code access, visit our [GitHub Repository](https://github.com/ncc-airhealth).
 
 ## Project layout
 
+    Pipfile       # pipenv file for Python environment configuration
+    Pipfile.lock  # version locked Pipfile
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
+        about.md  # About who, why, how.
         ...       # Other markdown pages, images and other files.
