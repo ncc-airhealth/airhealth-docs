@@ -2,4 +2,6 @@ site_name: NCC Airhealth DB
 nav:
   - Home: index.md
   - About: about.md
+  - Variables:
+    - 버스정류장: variables/bus/index.md
 theme: readthedocs
